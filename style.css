@@ -1,0 +1,21 @@
+body {
+  
+    font-family: Arial, sans-serif;
+    background-image: url('https://c1.wallpaperflare.com/preview/499/312/897/paper-business-finance-document.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #container {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
